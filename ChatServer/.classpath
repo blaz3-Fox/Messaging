@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="trunk/ChatServer/src"/>
+	<classpathentry kind="lib" path="trunk/ChatServer/gcm-server.jar"/>
+	<classpathentry kind="lib" path="trunk/ChatServer/jgroups-3.2.7.Final.jar"/>
+	<classpathentry kind="lib" path="trunk/ChatServer/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="trunk/ChatServer/message.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

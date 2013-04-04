@@ -1,0 +1,29 @@
+Bandwidth Usage
+- Count usage on app before conversation starts
+Read:
+Alternating paragraphs
+http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10865639
+
+Usability Test
+Review on the same conditions as Bandwidth usage test
+
+My phone before start:
+196kb
+
+Ian's Phone:
+1.47mb
+
+Clunky push to talk service
+Delay probably too long for large messages to be a live-time application
+Sound quality alright
+Difference between 3G and WiFi not too noticeable in terms of waiting time
+
+My phone end
+589kb
+
+Ian's phone end
+1.89mb
+
+Article length
+182 words
+71 seconds talking time

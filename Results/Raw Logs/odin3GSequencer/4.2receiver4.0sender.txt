@@ -1,0 +1,40 @@
+02-14 16:31:22.318: I/timing(21527): Time taken for notification to arrive since build: 2243
+02-14 16:31:22.448: I/timing(21527): Time taken for notification to arrive since build: 1905
+02-14 16:31:22.558: I/timing(21527): Time taken for notification to arrive since build: 1627
+02-14 16:31:22.698: I/timing(21527): Time taken for notification to arrive since build: 1326
+02-14 16:31:22.813: I/timing(21527): Time taken for notification to arrive since build: 1036
+02-14 16:31:22.968: I/timing(21527): Time taken for notification to arrive since build: 784
+02-14 16:31:22.978: I/timing(21527): 7:Message retrieved: 2532
+02-14 16:31:23.113: I/timing(21527): Time taken for notification to arrive since build: 539
+02-14 16:31:23.298: I/timing(21527): Time taken for notification to arrive since build: 335
+02-14 16:31:23.468: I/timing(21527): 8:Message retrieved: 2521
+02-14 16:31:23.598: I/timing(21527): Time taken for notification to arrive since build: 243
+02-14 16:31:23.943: I/timing(21527): Time taken for notification to arrive since build: 198
+02-14 16:31:24.303: I/timing(21527): 10:Message retrieved: 2356
+02-14 16:31:24.488: I/timing(21527): Time taken for notification to arrive since build: 338
+02-14 16:31:24.788: I/timing(21527): Time taken for notification to arrive since build: 183
+02-14 16:31:25.043: I/timing(21527): 12:Message retrieved: 2095
+02-14 16:31:25.178: I/timing(21527): Time taken for notification to arrive since build: 154
+02-14 16:31:25.673: I/timing(21527): 13:Message retrieved: 2223
+02-14 16:31:25.963: I/timing(21527): Time taken for notification to arrive since build: 497
+02-14 16:31:29.163: I/timing(21527): Time taken for notification to arrive since build: 3233
+02-14 16:31:29.313: I/timing(21527): Time taken for notification to arrive since build: 2894
+02-14 16:31:29.433: I/timing(21527): Time taken for notification to arrive since build: 2503
+02-14 16:31:29.488: I/timing(21527): 22:Message retrieved: 1529
+02-14 16:31:29.588: I/timing(21527): Time taken for notification to arrive since build: 2236
+02-14 16:31:29.708: I/timing(21527): Time taken for notification to arrive since build: 1885
+02-14 16:31:29.843: I/timing(21527): Time taken for notification to arrive since build: 1629
+02-14 16:31:30.008: I/timing(21527): Time taken for notification to arrive since build: 1419
+02-14 16:31:30.088: I/timing(21527): 23:Message retrieved: 1624
+02-14 16:31:30.138: I/timing(21527): Time taken for notification to arrive since build: 1095
+02-14 16:31:30.248: I/timing(21527): Time taken for notification to arrive since build: 598
+02-14 16:31:30.363: I/timing(21527): Time taken for notification to arrive since build: 291
+02-14 16:31:30.773: I/timing(21527): Time taken for notification to arrive since build: 231
+02-14 16:31:30.928: I/timing(21527): 25:Message retrieved: 1463
+02-14 16:31:31.708: I/timing(21527): Time taken for notification to arrive since build: 525
+02-14 16:31:31.928: I/timing(21527): Time taken for notification to arrive since build: 243
+02-14 16:31:32.343: I/timing(21527): 27:Message retrieved: 1875
+02-14 16:31:32.508: I/timing(21527): Time taken for notification to arrive since build: 311
+02-14 16:31:32.918: I/timing(21527): 29:Message retrieved: 1451
+02-14 16:31:32.963: I/timing(21527): Time taken for notification to arrive since build: 265
+02-14 16:31:33.408: I/timing(21527): Time taken for notification to arrive since build: 305

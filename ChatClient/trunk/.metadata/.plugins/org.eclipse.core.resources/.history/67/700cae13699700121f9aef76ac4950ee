@@ -1,0 +1,32 @@
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.IOException;
+import java.net.InetSocketAddress;
+import java.net.Socket;
+import java.net.SocketAddress;
+
+
+public class SimpleSender {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		// connect to the server.
+		Socket s = new Socket();
+		
+		SocketAddress address = new InetSocketAddress("en-301-0167-030-24168", 5555);
+		
+		try {
+			s.connect(address, 5000 );
+		} catch (IOException e) {
+			
+			BufferedOutputStream in = new BufferedOutputStream(s.getOutputStream());
+			
+			in.write("Motherfucking bytes".getBytes());
+		}
+	}
+
+}

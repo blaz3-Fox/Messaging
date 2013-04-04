@@ -1,0 +1,19 @@
+INDEX VERSION 1.126+\\engad.foe.auckland.ac.nz\EngDFS\Home\abor036\Documents\Part4\ChatServer\trunk\.metadata\.plugins\org.eclipse.jdt.core
+1115467115.index
+4108727661.index
+1498219845.index
+4041092966.index
+1668301934.index
+1299022128.index
+163172794.index
+3065916431.index
+1697886153.index
+3974580528.index
+4155206848.index
+30765161.index
+2441685708.index
+3346949766.index
+2724583949.index
+3133528496.index
+1995173708.index
+305854171.index

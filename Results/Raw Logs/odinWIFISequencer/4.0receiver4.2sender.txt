@@ -1,0 +1,56 @@
+02-14 16:36:04.906: I/timing(10017): Time taken for notification to arrive since build: 800
+02-14 16:36:05.101: I/timing(10017): Time taken for notification to arrive since build: 617
+02-14 16:36:05.216: I/timing(10017): 3:Message retrieved: 316
+02-14 16:36:05.216: I/timing(10017): Time taken for notification to arrive since build: 170
+02-14 16:36:05.696: I/timing(10017): Time taken for notification to arrive since build: 213
+02-14 16:36:06.041: I/timing(10017): 4:Message retrieved: 644
+02-14 16:36:06.326: I/timing(10017): Time taken for notification to arrive since build: 310
+02-14 16:36:06.671: I/timing(10017): 5:Message retrieved: 768
+02-14 16:36:06.691: I/timing(10017): Time taken for notification to arrive since build: 178
+02-14 16:36:07.011: I/timing(10017): 6:Message retrieved: 608
+02-14 16:36:07.161: I/timing(10017): Time taken for notification to arrive since build: 149
+02-14 16:36:07.461: I/timing(10017): 7:Message retrieved: 555
+02-14 16:36:07.596: I/timing(10017): Time taken for notification to arrive since build: 81
+02-14 16:36:07.866: I/timing(10017): 8:Message retrieved: 461
+02-14 16:36:08.101: I/timing(10017): Time taken for notification to arrive since build: 117
+02-14 16:36:08.351: I/timing(10017): 9:Message retrieved: 445
+02-14 16:36:08.586: I/timing(10017): Time taken for notification to arrive since build: 102
+02-14 16:36:08.946: I/timing(10017): 10:Message retrieved: 539
+02-14 16:36:09.111: I/timing(10017): Time taken for notification to arrive since build: 144
+02-14 16:36:09.441: I/timing(10017): 11:Message retrieved: 530
+02-14 16:36:09.621: I/timing(10017): Time taken for notification to arrive since build: 153
+02-14 16:36:09.921: I/timing(10017): 12:Message retrieved: 510
+02-14 16:36:10.116: I/timing(10017): Time taken for notification to arrive since build: 135
+02-14 16:36:10.461: I/timing(10017): 13:Message retrieved: 552
+02-14 16:36:10.871: I/timing(10017): Time taken for notification to arrive since build: 217
+02-14 16:36:11.226: I/timing(10017): 14:Message retrieved: 805
+02-14 16:36:11.241: I/timing(10017): Time taken for notification to arrive since build: 178
+02-14 16:36:11.586: I/timing(10017): 15:Message retrieved: 674
+02-14 16:36:11.776: I/timing(10017): Time taken for notification to arrive since build: 263
+02-14 16:36:12.146: I/timing(10017): 16:Message retrieved: 733
+02-14 16:36:12.271: I/timing(10017): Time taken for notification to arrive since build: 210
+02-14 16:36:12.586: I/timing(10017): 17:Message retrieved: 672
+02-14 16:36:12.781: I/timing(10017): Time taken for notification to arrive since build: 219
+02-14 16:36:13.151: I/timing(10017): 18:Message retrieved: 734
+02-14 16:36:13.226: I/timing(10017): Time taken for notification to arrive since build: 147
+02-14 16:36:13.526: I/timing(10017): 19:Message retrieved: 609
+02-14 16:36:13.711: I/timing(10017): Time taken for notification to arrive since build: 168
+02-14 16:36:13.996: I/timing(10017): 20:Message retrieved: 573
+02-14 16:36:14.191: I/timing(10017): Time taken for notification to arrive since build: 175
+02-14 16:36:14.556: I/timing(10017): 21:Message retrieved: 637
+02-14 16:36:14.671: I/timing(10017): Time taken for notification to arrive since build: 157
+02-14 16:36:15.081: I/timing(10017): 22:Message retrieved: 660
+02-14 16:36:15.266: I/timing(10017): Time taken for notification to arrive since build: 236
+02-14 16:36:15.541: I/timing(10017): 23:Message retrieved: 618
+02-14 16:36:15.656: I/timing(10017): Time taken for notification to arrive since build: 124
+02-14 16:36:15.991: I/timing(10017): 24:Message retrieved: 567
+02-14 16:36:16.496: I/timing(10017): Time taken for notification to arrive since build: 358
+02-14 16:36:16.791: I/timing(10017): Time taken for notification to arrive since build: 181
+02-14 16:36:16.791: I/timing(10017): 25:Message retrieved: 865
+02-14 16:36:17.111: I/timing(10017): 26:Message retrieved: 684
+02-14 16:36:17.321: I/timing(10017): Time taken for notification to arrive since build: 228
+02-14 16:36:17.651: I/timing(10017): Time taken for notification to arrive since build: 120
+02-14 16:36:17.731: I/timing(10017): 27:Message retrieved: 801
+02-14 16:36:18.286: I/timing(10017): Time taken for notification to arrive since build: 147
+02-14 16:36:18.581: I/timing(10017): 29:Message retrieved: 648
+02-14 16:36:18.806: I/timing(10017): Time taken for notification to arrive since build: 197

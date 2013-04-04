@@ -1,0 +1,60 @@
+02-15 15:13:06.301: I/timing(12655): Time taken for notification to arrive since build: 945
+02-15 15:13:06.406: D/audiotiming(12655):  startplaydownload1360894386412
+02-15 15:13:19.496: I/timing(12655): Time taken for notification to arrive since build: 1208
+02-15 15:13:19.581: D/audiotiming(12655):  startplaydownload1360894399587
+02-15 15:13:32.211: I/timing(12655): Time taken for notification to arrive since build: 971
+02-15 15:13:32.276: D/audiotiming(12655):  startplaydownload1360894412282
+02-15 15:13:44.931: I/timing(12655): Time taken for notification to arrive since build: 1111
+02-15 15:13:44.991: D/audiotiming(12655):  startplaydownload1360894424996
+02-15 15:13:57.386: I/timing(12655): Time taken for notification to arrive since build: 940
+02-15 15:13:57.466: D/audiotiming(12655):  startplaydownload1360894437474
+02-15 15:14:16.656: I/timing(12655): Time taken for notification to arrive since build: 891
+02-15 15:14:16.716: D/audiotiming(12655):  startplaydownload1360894456721
+02-15 15:14:28.941: I/timing(12655): Time taken for notification to arrive since build: 956
+02-15 15:14:29.001: D/audiotiming(12655):  startplaydownload1360894469008
+02-15 15:14:45.336: I/timing(12655): Time taken for notification to arrive since build: 1041
+02-15 15:14:45.411: D/audiotiming(12655):  startplaydownload1360894485419
+02-15 15:14:58.731: I/timing(12655): Time taken for notification to arrive since build: 897
+02-15 15:14:58.826: D/audiotiming(12655):  startplaydownload1360894498830
+02-15 15:15:10.506: I/timing(12655): Time taken for notification to arrive since build: 892
+02-15 15:15:10.596: D/audiotiming(12655):  startplaydownload1360894510603
+02-15 15:16:12.976: I/timing(12655): Time taken for notification to arrive since build: 947
+02-15 15:16:13.066: D/audiotiming(12655):  startplaydownload1360894573072
+02-15 15:16:36.881: I/timing(12655): Time taken for notification to arrive since build: 863
+02-15 15:16:36.936: D/audiotiming(12655):  startplaydownload1360894596944
+02-15 15:16:49.116: I/timing(12655): Time taken for notification to arrive since build: 1084
+02-15 15:16:49.181: D/audiotiming(12655):  startplaydownload1360894609185
+02-15 15:17:05.031: I/timing(12655): Time taken for notification to arrive since build: 886
+02-15 15:17:05.121: D/audiotiming(12655):  startplaydownload1360894625128
+02-15 15:17:16.741: I/timing(12655): Time taken for notification to arrive since build: 857
+02-15 15:17:16.871: D/audiotiming(12655):  startplaydownload1360894636877
+02-15 15:17:28.561: I/timing(12655): Time taken for notification to arrive since build: 974
+02-15 15:17:28.606: D/audiotiming(12655):  startplaydownload1360894648610
+02-15 15:17:45.526: I/timing(12655): Time taken for notification to arrive since build: 952
+02-15 15:17:45.601: D/audiotiming(12655):  startplaydownload1360894665607
+02-15 15:17:58.546: I/timing(12655): Time taken for notification to arrive since build: 911
+02-15 15:17:58.601: D/audiotiming(12655):  startplaydownload1360894678607
+02-15 15:18:11.311: I/timing(12655): Time taken for notification to arrive since build: 929
+02-15 15:18:11.381: D/audiotiming(12655):  startplaydownload1360894691387
+02-15 15:18:25.646: I/timing(12655): Time taken for notification to arrive since build: 901
+02-15 15:18:25.896: D/audiotiming(12655):  startplaydownload1360894705901
+02-15 15:18:37.676: I/timing(12655): Time taken for notification to arrive since build: 899
+02-15 15:18:37.731: D/audiotiming(12655):  startplaydownload1360894717736
+02-15 15:18:49.546: I/timing(12655): Time taken for notification to arrive since build: 892
+02-15 15:18:49.616: D/audiotiming(12655):  startplaydownload1360894729624
+02-15 15:19:01.546: I/timing(12655): Time taken for notification to arrive since build: 861
+02-15 15:19:01.611: D/audiotiming(12655):  startplaydownload1360894741619
+02-15 15:19:34.646: I/timing(12655): Time taken for notification to arrive since build: 960
+02-15 15:19:34.701: D/audiotiming(12655):  startplaydownload1360894774707
+02-15 15:19:48.361: I/timing(12655): Time taken for notification to arrive since build: 952
+02-15 15:19:48.436: D/audiotiming(12655):  startplaydownload1360894788441
+02-15 15:20:01.811: I/timing(12655): Time taken for notification to arrive since build: 1073
+02-15 15:20:01.881: D/audiotiming(12655):  startplaydownload1360894801888
+02-15 15:20:13.501: I/timing(12655): Time taken for notification to arrive since build: 905
+02-15 15:20:13.561: D/audiotiming(12655):  startplaydownload1360894813568
+02-15 15:20:25.951: I/timing(12655): Time taken for notification to arrive since build: 901
+02-15 15:20:26.051: D/audiotiming(12655):  startplaydownload1360894826055
+02-15 15:20:39.126: I/timing(12655): Time taken for notification to arrive since build: 964
+02-15 15:20:39.201: D/audiotiming(12655):  startplaydownload1360894839206
+02-15 15:21:04.271: I/timing(12655): Time taken for notification to arrive since build: 889
+02-15 15:21:04.361: D/audiotiming(12655):  startplaydownload1360894864366

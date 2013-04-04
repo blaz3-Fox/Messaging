@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/large_send"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="@string/menu_large_send"/>
+    <item
+        android:id="@+id/retry_connect"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/menu_retry_connect"/>
+    <item
+        android:id="@+id/record_audio"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:title="@string/menu_start_record_audio"/>
+    <item android:id="@+id/media_mode" android:orderInCategory="4" android:title="@string/menu_download_upon_notification"></item>
+
+</menu>

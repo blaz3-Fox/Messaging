@@ -1,0 +1,22 @@
+import java.net.InetSocketAddress;
+import java.net.Socket;
+import java.net.SocketAddress;
+
+
+public class SimpleSender {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// connect to the server.
+		Socket s = new Socket();
+		
+		SocketAddress address = new InetSocketAddress("en-301-0167-030-24168", 5555);
+		
+		s.connect(address, 5000 );
+	}
+
+}

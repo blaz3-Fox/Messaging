@@ -1,0 +1,90 @@
+02-15 15:51:01.503: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896661507
+02-15 15:51:03.493: I/timing(27674): Time taken for notification to arrive since build: 803
+02-15 15:51:04.563: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896664564
+02-15 15:51:20.933: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896680938
+02-15 15:51:22.008: I/timing(27674): Time taken for notification to arrive since build: 852
+02-15 15:51:23.328: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896683333
+02-15 15:51:42.283: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896702286
+02-15 15:51:43.803: I/timing(27674): Time taken for notification to arrive since build: 1300
+02-15 15:51:45.243: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896705244
+02-15 15:52:01.178: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896721179
+02-15 15:52:02.813: I/timing(27674): Time taken for notification to arrive since build: 725
+02-15 15:52:03.588: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896723592
+02-15 15:52:21.368: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896741372
+02-15 15:52:22.623: I/timing(27674): Time taken for notification to arrive since build: 960
+02-15 15:52:23.838: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896743841
+02-15 15:52:44.793: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896764796
+02-15 15:52:45.968: I/timing(27674): Time taken for notification to arrive since build: 957
+02-15 15:52:46.928: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896766931
+02-15 15:53:11.113: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896791117
+02-15 15:53:12.268: I/timing(27674): Time taken for notification to arrive since build: 895
+02-15 15:53:13.413: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896793417
+02-15 15:53:28.273: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896808277
+02-15 15:53:30.313: I/timing(27674): Time taken for notification to arrive since build: 893
+02-15 15:53:31.398: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896811402
+02-15 15:54:05.278: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896845280
+02-15 15:54:06.513: I/timing(27674): Time taken for notification to arrive since build: 963
+02-15 15:54:07.468: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896847473
+02-15 15:54:24.283: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896864288
+02-15 15:54:26.273: I/timing(27674): Time taken for notification to arrive since build: 831
+02-15 15:54:27.298: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896867300
+02-15 15:54:45.438: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896885441
+02-15 15:54:46.748: I/timing(27674): Time taken for notification to arrive since build: 860
+02-15 15:54:48.498: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896888503
+02-15 15:55:03.673: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896903676
+02-15 15:55:04.708: I/timing(27674): Time taken for notification to arrive since build: 803
+02-15 15:55:06.173: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896906177
+02-15 15:55:22.683: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896922684
+02-15 15:55:23.853: I/timing(27674): Time taken for notification to arrive since build: 948
+02-15 15:55:24.653: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896924655
+02-15 15:55:40.703: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896940707
+02-15 15:55:41.793: I/timing(27674): Time taken for notification to arrive since build: 808
+02-15 15:55:42.903: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896942908
+02-15 15:56:01.893: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896961896
+02-15 15:56:02.978: I/timing(27674): Time taken for notification to arrive since build: 804
+02-15 15:56:03.953: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896963954
+02-15 15:56:25.698: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360896985699
+02-15 15:56:26.748: I/timing(27674): Time taken for notification to arrive since build: 805
+02-15 15:56:28.093: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360896988093
+02-15 15:56:43.353: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897003354
+02-15 15:56:45.413: I/timing(27674): Time taken for notification to arrive since build: 1021
+02-15 15:56:56.978: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897016978
+02-15 15:57:02.353: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897022357
+02-15 15:57:03.473: I/timing(27674): Time taken for notification to arrive since build: 843
+02-15 15:57:04.458: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897024459
+02-15 15:57:23.528: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897043531
+02-15 15:57:24.478: I/timing(27674): Time taken for notification to arrive since build: 694
+02-15 15:57:25.623: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897045625
+02-15 15:57:42.603: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897062607
+02-15 15:57:43.698: I/timing(27674): Time taken for notification to arrive since build: 803
+02-15 15:57:44.988: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897064992
+02-15 15:57:58.708: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897078713
+02-15 15:58:00.943: I/timing(27674): Time taken for notification to arrive since build: 1064
+02-15 15:58:10.498: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897090499
+02-15 15:58:18.108: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897098111
+02-15 15:58:20.108: I/timing(27674): Time taken for notification to arrive since build: 694
+02-15 15:58:21.128: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897101132
+02-15 15:58:38.988: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897118992
+02-15 15:58:40.093: I/timing(27674): Time taken for notification to arrive since build: 868
+02-15 15:58:41.473: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897121477
+02-15 15:58:56.088: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897136088
+02-15 15:58:57.163: I/timing(27674): Time taken for notification to arrive since build: 852
+02-15 15:58:57.973: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897137977
+02-15 15:59:17.088: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897157092
+02-15 15:59:18.298: I/timing(27674): Time taken for notification to arrive since build: 970
+02-15 15:59:19.403: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897159403
+02-15 15:59:41.023: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897181025
+02-15 15:59:42.048: I/timing(27674): Time taken for notification to arrive since build: 751
+02-15 15:59:43.348: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897183351
+02-15 15:59:58.293: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897198296
+02-15 16:00:00.223: I/timing(27674): Time taken for notification to arrive since build: 810
+02-15 16:00:12.168: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897212170
+02-15 16:00:17.163: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897217164
+02-15 16:00:18.328: I/timing(27674): Time taken for notification to arrive since build: 876
+02-15 16:00:19.343: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897219348
+02-15 16:00:36.903: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897236907
+02-15 16:00:38.108: I/timing(27674): Time taken for notification to arrive since build: 916
+02-15 16:00:39.368: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897239373
+02-15 16:01:07.798: D/audiotiming(27674): odin-50282-0_test1.3gp Uploaded 1360897267801
+02-15 16:01:08.803: I/timing(27674): Time taken for notification to arrive since build: 766
+02-15 16:01:09.633: D/audiotiming(27674): odin-50282-0_test1.3gp startplaystream 1360897269634
